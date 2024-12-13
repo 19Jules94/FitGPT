@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "FitGPT.API\\FitGPT.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FitGPT.Client\\FitGPT.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

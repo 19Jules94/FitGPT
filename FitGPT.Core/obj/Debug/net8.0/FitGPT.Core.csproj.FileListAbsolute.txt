@@ -1,0 +1,11 @@
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Core\bin\Debug\net8.0\FitGPT.Core.deps.json
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Core\bin\Debug\net8.0\FitGPT.Core.dll
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Core\bin\Debug\net8.0\FitGPT.Core.pdb
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Core\obj\Debug\net8.0\FitGPT.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Core\obj\Debug\net8.0\FitGPT.Core.AssemblyInfoInputs.cache
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Core\obj\Debug\net8.0\FitGPT.Core.AssemblyInfo.cs
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Core\obj\Debug\net8.0\FitGPT.Core.csproj.CoreCompileInputs.cache
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Core\obj\Debug\net8.0\FitGPT.Core.dll
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Core\obj\Debug\net8.0\refint\FitGPT.Core.dll
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Core\obj\Debug\net8.0\FitGPT.Core.pdb
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Core\obj\Debug\net8.0\ref\FitGPT.Core.dll

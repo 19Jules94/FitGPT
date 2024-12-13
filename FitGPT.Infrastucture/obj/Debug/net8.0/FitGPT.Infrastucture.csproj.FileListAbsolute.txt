@@ -1,0 +1,15 @@
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\bin\Debug\net8.0\FitGPT.Infrastucture.deps.json
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\bin\Debug\net8.0\FitGPT.Infrastucture.dll
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\bin\Debug\net8.0\FitGPT.Infrastucture.pdb
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\bin\Debug\net8.0\FitGPT.Core.dll
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\bin\Debug\net8.0\FitGPT.Core.pdb
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\obj\Debug\net8.0\FitGPT.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\obj\Debug\net8.0\FitGPT.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\obj\Debug\net8.0\FitGPT.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\obj\Debug\net8.0\FitGPT.Infrastucture.AssemblyInfo.cs
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\obj\Debug\net8.0\FitGPT.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\obj\Debug\net8.0\FitGPT.I.2DE5B6E6.Up2Date
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\obj\Debug\net8.0\FitGPT.Infrastucture.dll
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\obj\Debug\net8.0\refint\FitGPT.Infrastucture.dll
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\obj\Debug\net8.0\FitGPT.Infrastucture.pdb
+C:\Users\lou93\source\repos\FitGPT\FitGPT.Infrastucture\obj\Debug\net8.0\ref\FitGPT.Infrastucture.dll
